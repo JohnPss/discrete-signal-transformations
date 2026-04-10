@@ -1,5 +1,8 @@
 # Manipulação de Sinais Discretos Unidimensionais
 
+> 💡 **Para melhor visualização** deste projeto (README formatado e imagens dos gráficos), acesse o repositório no GitHub:
+> **https://github.com/JohnPss/discrete-signal-transformations**
+
 Cinco programas independentes em C++ para operações fundamentais sobre sinais discretos, com plotagem automática via **gnuplot** (saída em PNG).
 
 ## Estrutura do Projeto
