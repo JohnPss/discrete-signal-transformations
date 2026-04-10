@@ -1,0 +1,13 @@
+# Executáveis compilados
+a_reflexao/a_reflexao
+b_escala/b_escala
+c_amplitude/c_amplitude
+d_deslocamento/d_deslocamento
+e_degrau/e_degrau
+
+# Arquivos temporários gerados em tempo de execução
+**/*.dat
+**/*.gp
+
+# Imagens geradas (remova esta linha se quiser versionar os PNGs)
+# **/*.png
